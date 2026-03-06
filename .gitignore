@@ -49,6 +49,13 @@ out/
 .env
 .env.*
 
+# Backup folders
+src_backup_*/
+
+# Task instruction files
+TaskInstructions*
+~$*
+
 # Azure/ADO
 .azure-pipelines.yml
 *.azuredevops
