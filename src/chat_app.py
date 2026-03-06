@@ -1,4 +1,5 @@
 # Core Libraries
+# Zava Multimodal AI Shopping Assistant
 import os
 import asyncio
 import datetime
